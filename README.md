@@ -22,4 +22,4 @@ An AI research assistant built with Python, LangChain, and Google Gemini. This p
 
 ## Acknowledgements
 
-This project started from the YouTube tutorial *"Build an AI Agent From Scratch in Python - Tutorial for Beginners"* (by Tech with Tim) and has been modified and extended with additional features and improvements.
+This project started from the YouTube tutorial *"Build an AI Agent From Scratch in Python - Tutorial for Beginners"* (by Tech with Tim), adapted to use Google Gemini.
